@@ -1,6 +1,6 @@
 # Google Books Search
 
-![Google Book Search Main Page Image](https://github.com/ejlopez44/employee-directory/blob/master/public/assets/images/Screen%20Shot%202020-07-11%20at%2012.45.20%20AM.png)
+![Google Book Search Main Page Image](https://github.com/ejlopez44/Google-Books-Search/blob/master/client/public/assets/Screen%20Shot%202020-07-25%20at%202.40.50%20PM.png)
 
 ## Description
 
